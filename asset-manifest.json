@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test-bugfix/static/css/main.b7b07b48.css",
+    "main.js": "/test-bugfix/static/js/main.2736bc80.js",
+    "static/js/787.77e447a1.chunk.js": "/test-bugfix/static/js/787.77e447a1.chunk.js",
+    "static/media/bg01.jpg": "/test-bugfix/static/media/bg01.3b14174ab24c46f87958.jpg",
+    "static/media/bg02.jpg": "/test-bugfix/static/media/bg02.87414f246ff8275c6e3a.jpg",
+    "static/media/Poppins-Regular.ttf": "/test-bugfix/static/media/Poppins-Regular.1c701c9a6b587802e3d0.ttf",
+    "static/media/Poppins-Bold.ttf": "/test-bugfix/static/media/Poppins-Bold.e2abc8f5e9a67ea669ea.ttf",
+    "static/media/Lato-Light.ttf": "/test-bugfix/static/media/Lato-Light.bd895b1eb9ced18d8ce6.ttf",
+    "static/media/Lato-Bold.ttf": "/test-bugfix/static/media/Lato-Bold.401bd636a7027c695b08.ttf",
+    "static/media/Lato-Regular.ttf": "/test-bugfix/static/media/Lato-Regular.79164ee524feb6583a94.ttf",
+    "static/media/bg03.jpg": "/test-bugfix/static/media/bg03.901e90e9d845bff8d096.jpg",
+    "index.html": "/test-bugfix/index.html",
+    "main.b7b07b48.css.map": "/test-bugfix/static/css/main.b7b07b48.css.map",
+    "main.2736bc80.js.map": "/test-bugfix/static/js/main.2736bc80.js.map",
+    "787.77e447a1.chunk.js.map": "/test-bugfix/static/js/787.77e447a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7b07b48.css",
+    "static/js/main.2736bc80.js"
+  ]
+}
